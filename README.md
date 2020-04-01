@@ -1,4 +1,4 @@
-# expense-manager
+# expense-tracker
 ## A MERN stack application
 
 1. fixed an error of 'ejs module not found' by npm i ejs in client directory
